@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Captain with Master-crafted Heavy Bold Rifle",
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Captain with Master-crafted Heavy Bold Rifle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Heavy Intercessors",
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Heavy Intercessor Sergeant"
+                    },
+                    {
+                        "name": "Heavy Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Heavy Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Heavy Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Heavy Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Heavy Intercessor"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Primaris Intercessors",
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Intercessor Sergeant"
+                    },
+                    {
+                        "name": "Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Intercessor Sergeant"
+                    },
+                    {
+                        "name": "Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Intercessor"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Intercessor"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Primaris Eradicators",
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Eradicator Sergeant"
+                    },
+                    {
+                        "name": "Eradicator"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Eradicator"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Eradicator"
+                    }
+                ]
+            }
+        ]
+    }
+]
