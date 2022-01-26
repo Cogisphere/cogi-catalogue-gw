@@ -18,6 +18,14 @@
                         "tags": [ "Victrix", "Honour Guard", "Tacticus" ]
                     }
                 ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Victrix Honour Guard",
+                        "tags": [ "Victrix", "Honour Guard", "Tacticus" ]
+                    }
+                ]
             }
         ]
     },
