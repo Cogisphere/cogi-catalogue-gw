@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Cogisphere/cogi-catalogue-gw/issues"
   },
-  "homepage": "https://github.com/Cogisphere/cogi-catalogue-gw#readme"
+  "homepage": "https://github.com/Cogisphere/cogi-catalogue-gw#readme",
+  "datafiles": [
+    "black-templars-boxes.json",
+    "space-marines-boxes.json",
+    "ultramarines-boxes.json"
+  ]
 }
