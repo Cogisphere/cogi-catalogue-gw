@@ -175,13 +175,16 @@
             {
                 "possibilities": [
                     {
-                        "name": "Gladiator Lancer"
+                        "name": "Gladiator Lancer",
+                        "tags": [ "Lancer" ]
                     },
                     {
-                        "name": "Gladiator Valiant"
+                        "name": "Gladiator Valiant",
+                        "tags": [ "Valiant" ]
                     },
                     {
-                        "name": "Gladiator Reaper"
+                        "name": "Gladiator Reaper",
+                        "tags": [ "Reaper" ]
                     }
                 ]
             }
@@ -1058,19 +1061,11 @@
                     {
                         "name": "Storm Speeder Hammerstrike",
                         "tags": [ "Hammerstrike" ]
-                    }
-                ]
-            },
-            {
-                "possibilities": [
+                    },
                     {
                         "name": "Storm Speeder Hailstrike",
                         "tags": [ "Hailstrike" ]
-                    }
-                ]
-            },
-            {
-                "possibilities": [
+                    },
                     {
                         "name": "Storm Speeder Thunderstrike",
                         "tags": [ "Thunderstrike" ]
@@ -1088,19 +1083,11 @@
                     {
                         "name": "Storm Speeder Hailstrike",
                         "tags": [ "Hailstrike" ]
-                    }
-                ]
-            },
-            {
-                "possibilities": [
+                    },
                     {
                         "name": "Storm Speeder Hammerstrike",
                         "tags": [ "Hammerstrike" ]
-                    }
-                ]
-            },
-            {
-                "possibilities": [
+                    },
                     {
                         "name": "Storm Speeder Thunderstrike",
                         "tags": [ "Thunderstrike" ]
@@ -1118,19 +1105,11 @@
                     {
                         "name": "Storm Speeder Thunderstrike",
                         "tags": [ "Thunderstrike" ]
-                    }
-                ]
-            },
-            {
-                "possibilities": [
+                    },
                     {
                         "name": "Storm Speeder Hailstrike",
                         "tags": [ "Hailstrike" ]
-                    }
-                ]
-            },
-            {
-                "possibilities": [
+                    },
                     {
                         "name": "Storm Speeder Hammerstrike",
                         "tags": [ "Hammerstrike" ]
