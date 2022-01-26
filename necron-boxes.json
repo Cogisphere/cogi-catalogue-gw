@@ -1,0 +1,267 @@
+[
+    {
+        "name": "Flayed Ones",
+        "tags": [ "Games Workshop", "Xeno", "Necron", "Infantry", "Flayed" ],
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Flayed One"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Flayed One"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Flayed One"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Flayed One"
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Flayed One"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Chronomancer",
+        "tags": [ "Games Workshop", "Xeno", "Necron", "HQ", "Infantry", "Cryptek", "Chronomancer" ],
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Chronomancer"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "C'tan Shard of the Void Dragon",
+        "tags": [ "Games Workshop", "Xeno", "Necron", "Monster", "C'tan", "Void Dragon" ],
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "C'tan Shard of the Void Dragon"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Necron Warriors",
+        "tags": [ "Games Workshop", "Xeno", "Necron", "Infantry" ],
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Warrior",
+                        "tags": [ "Necron Warrior" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Warrior",
+                        "tags": [ "Necron Warrior" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Warrior",
+                        "tags": [ "Necron Warrior" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Warrior",
+                        "tags": [ "Necron Warrior" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Warrior",
+                        "tags": [ "Necron Warrior" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Warrior",
+                        "tags": [ "Necron Warrior" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Warrior",
+                        "tags": [ "Necron Warrior" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Warrior",
+                        "tags": [ "Necron Warrior" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Warrior",
+                        "tags": [ "Necron Warrior" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Warrior",
+                        "tags": [ "Necron Warrior" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Canoptek Scarab Swarms",
+                        "tags": [ "Canoptek", "Scarab Swarms" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Canoptek Scarab Swarms",
+                        "tags": [ "Canoptek", "Scarab Swarms" ]
+                    }
+                ]
+            },
+            {
+                "possibilities": [
+                    {
+                        "name": "Canoptek Scarab Swarms",
+                        "tags": [ "Canoptek", "Scarab Swarms" ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hexmark Destroyer",
+        "tags": [ "Games Workshop", "Xeno", "Necron", "Infantry", "Destroyer", "Hexmark" ],
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Hexmark Destroyer"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lokhust Heavy Destroyer",
+        "tags": [ "Games Workshop", "Xeno", "Necron", "Infantry", "Destroyer", "Lokhust" ],
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Lokhust Heavy Destroyer"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tesseract Vault",
+        "tags": [ "Games Workshop", "Xeno", "Necron", "Vehicle", "Tesseract" ],
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Tesseract Vault"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Triarch Stalker",
+        "tags": [ "Games Workshop", "Xeno", "Necron", "Vehicle", "Triarch", "Stalker", "Dynastic Agent" ],
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Triarch Stalker"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Necron Catacomb Command Barge",
+        "tags": [ "Games Workshop", "Xeno", "Necron", "Vehicle" ],
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Necron Catacomb Command Barge",
+                        "tags": [ "HQ", "Catacomb Command Barge", "Noble" ]
+                    },
+                    {
+                        "name": "Annihilation Barge",
+                        "tags": [ "Annihilation Barge" ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lychguard",
+        "tags": [ "Games Workshop", "Xeno", "Necron", "Infantry" ],
+        "models": [
+            {
+                "possibilities": [
+                    {
+                        "name": "Lychguard",
+                        "tags": [ "Lychguard" ]
+                    },
+                    {
+                        "name": "Triarch Pretorian",
+                        "tags": [ "Triarch", "Dynastic Agent" ]
+                    }
+                ]
+            }
+        ]
+    }
+]
