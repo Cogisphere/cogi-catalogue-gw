@@ -1,6 +1,7 @@
 [
     {
         "name": "Captain with Master-crafted Heavy Bold Rifle",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Captain", "Gravis" ],
         "models": [
             {
                 "possibilities": [
@@ -13,6 +14,7 @@
     },
     {
         "name": "Heavy Intercessors",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Intercessor", "Gravis" ],
         "models": [
             {
                 "possibilities": [
@@ -56,6 +58,7 @@
     },
     {
         "name": "Primaris Intercessors",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Intercessor", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -137,6 +140,7 @@
     },
     {
         "name": "Primaris Eradicators",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Eradicator", "Gravis" ],
         "models": [
             {
                 "possibilities": [
@@ -166,6 +170,7 @@
     },
     {
         "name": "Gladiator",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Vehicle", "Primaris", "Gladiator" ],
         "models": [
             {
                 "possibilities": [
@@ -184,6 +189,7 @@
     },
     {
         "name": "Assault Intercessors",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Intercessor", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -265,6 +271,7 @@
     },
     {
         "name": "Bladeguard Veterans",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Bladeguard", "Veteran", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -294,6 +301,7 @@
     },
     {
         "name": "Aggressors",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Aggressor", "Gravis" ],
         "models": [
             {
                 "possibilities": [
@@ -323,6 +331,7 @@
     },
     {
         "name": "Primaris Hellblasters",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Hellblaster", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -404,6 +413,7 @@
     },
     {
         "name": "Primaris Firestrike Servo-turret",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Vehicle", "Primaris", "Firestrike", "Turret" ],
         "models": [
             {
                 "possibilities": [
@@ -416,6 +426,7 @@
     },
     {
         "name": "Primaris Lieutenant in Reiver Armour",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Lieutenant", "Reiver", "Phobos" ],
         "models": [
             {
                 "possibilities": [
@@ -428,6 +439,7 @@
     },
     {
         "name": "Primaris Librarian in Phobos Armour",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Lieutenant", "Phobos" ],
         "models": [
             {
                 "possibilities": [
@@ -440,6 +452,7 @@
     },
     {
         "name": "Primaris Lieutenat with Power Sword",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Lieutenant", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -452,6 +465,7 @@
     },
     {
         "name": "Captain in Phobos Armour",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Captain", "Phobos" ],
         "models": [
             {
                 "possibilities": [
@@ -464,6 +478,7 @@
     },
     {
         "name": "Primaris Chaplain",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Chaplain", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -476,6 +491,7 @@
     },
     {
         "name": "Primaris Captain",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Captain", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -488,6 +504,7 @@
     },
     {
         "name": "Primaris Techmarine",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Techmarine", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -500,6 +517,7 @@
     },
     {
         "name": "Primaris Apothecary",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Apothecary", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -512,6 +530,7 @@
     },
     {
         "name": "Primaris Librarian",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Librarian", "Tacticus", "Psyker" ],
         "models": [
             {
                 "possibilities": [
@@ -524,6 +543,7 @@
     },
     {
         "name": "Primaris Invader ATV",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Primaris", "Vehicle", "Invader", "ATV" ],
         "models": [
             {
                 "possibilities": [
@@ -536,6 +556,7 @@
     },
     {
         "name": "Primaris Chaplain on Bike",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "HQ", "Primaris", "Chaplain", "Biker", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -548,6 +569,7 @@
     },
     {
         "name": "Eliminators",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Eliminator", "Phobos" ],
         "models": [
             {
                 "possibilities": [
@@ -577,6 +599,7 @@
     },
     {
         "name": "Primaris Inceptors",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Inceptor", "Gravis" ],
         "models": [
             {
                 "possibilities": [
@@ -606,116 +629,141 @@
     },
     {
         "name": "Primaris Infitrators",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Phobos" ],
         "models": [
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator Sergeant"
+                        "name": "Infiltrator Sergeant",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor Sergeant"
+                        "name": "Incursor Sergeant",
+                        "tags": [ "Incursor" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator Sergeant"
+                        "name": "Infiltrator Sergeant",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor Sergeant"
+                        "name": "Incursor Sergeant",
+                        "tags": [ "Incursor" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             }
@@ -723,6 +771,7 @@
     },
     {
         "name": "Primaris Reivers",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Reiver", "Phobos" ],
         "models": [
             {
                 "possibilities": [
@@ -804,6 +853,7 @@
     },
     {
         "name": "Outriders",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Outrider", "Biker", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
@@ -833,116 +883,141 @@
     },
     {
         "name": "Primaris Incursors",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Phobos" ],
         "models": [
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator Sergeant"
+                        "name": "Infiltrator Sergeant",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor Sergeant"
+                        "name": "Incursor Sergeant",
+                        "tags": [ "Incursor" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator Sergeant"
+                        "name": "Infiltrator Sergeant",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor Sergeant"
+                        "name": "Incursor Sergeant",
+                        "tags": [ "Incursor" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Infiltrator"
+                        "name": "Infiltrator",
+                        "tags": [ "Infiltrator" ]
                     },
                     {
-                        "name": "Incursor"
+                        "name": "Incursor",
+                        "tags": [ "Incursor" ]
                     }
                 ]
             }
@@ -950,6 +1025,7 @@
     },
     {
         "name": "Hammerfall Bunker",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Building", "Primaris", "Hammerfall" ],
         "models": [
             {
                 "possibilities": [
@@ -962,6 +1038,7 @@
     },
     {
         "name": "Primaris Invictor Tactical Warsuit",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Vehicle", "Primaris", "Invictor", "Warsuit" ],
         "models": [
             {
                 "possibilities": [
@@ -974,25 +1051,29 @@
     },
     {
         "name": "Storm Speeder Hammerstrike",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Vehicle", "Primaris", "Storm Speeder" ],
         "models": [
             {
                 "possibilities": [
                     {
-                        "name": "Storm Speeder Hammerstrike"
+                        "name": "Storm Speeder Hammerstrike",
+                        "tags": [ "Hammerstrike" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Storm Speeder Hailstrike"
+                        "name": "Storm Speeder Hailstrike",
+                        "tags": [ "Hailstrike" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Storm Speeder Thunderstrike"
+                        "name": "Storm Speeder Thunderstrike",
+                        "tags": [ "Thunderstrike" ]
                     }
                 ]
             }
@@ -1000,25 +1081,29 @@
     },
     {
         "name": "Storm Speeder Hailstrike",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Vehicle", "Primaris", "Storm Speeder" ],
         "models": [
             {
                 "possibilities": [
                     {
-                        "name": "Storm Speeder Hailstrike"
+                        "name": "Storm Speeder Hailstrike",
+                        "tags": [ "Hailstrike" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Storm Speeder Hammerstrike"
+                        "name": "Storm Speeder Hammerstrike",
+                        "tags": [ "Hammerstrike" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Storm Speeder Thunderstrike"
+                        "name": "Storm Speeder Thunderstrike",
+                        "tags": [ "Thunderstrike" ]
                     }
                 ]
             }
@@ -1026,25 +1111,29 @@
     },
     {
         "name": "Storm Speeder Thunderstrike",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Vehicle", "Primaris", "Storm Speeder" ],
         "models": [
             {
                 "possibilities": [
                     {
-                        "name": "Storm Speeder Thunderstrike"
+                        "name": "Storm Speeder Thunderstrike",
+                        "tags": [ "Thunderstrike" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Storm Speeder Hailstrike"
+                        "name": "Storm Speeder Hailstrike",
+                        "tags": [ "Hailstrike" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Storm Speeder Hammerstrike"
+                        "name": "Storm Speeder Hammerstrike",
+                        "tags": [ "Hammerstrike" ]
                     }
                 ]
             }
@@ -1052,6 +1141,7 @@
     },
     {
         "name": "Primaris Redemptor Dreadnought",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Vehicle", "Primaris", "Drednought", "Redemptor" ],
         "models": [
             {
                 "possibilities": [
@@ -1064,6 +1154,7 @@
     },
     {
         "name": "Primaris Impulsor",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Vehicle", "Primaris", "Impulsor" ],
         "models": [
             {
                 "possibilities": [
@@ -1076,6 +1167,7 @@
     },
     {
         "name": "Primaris Repulsor",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Vehicle", "Primaris", "Repulsor" ],
         "models": [
             {
                 "possibilities": [
@@ -1088,6 +1180,7 @@
     },
     {
         "name": "Primaris Repulsor Executioner",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Vehicle", "Primaris", "Repulsor", "Repulsor Executioner" ],
         "models": [
             {
                 "possibilities": [
@@ -1103,60 +1196,69 @@
     },
     {
         "name": "Heroes of the Chapter",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris", "Tacticus" ],
         "models": [
             {
                 "possibilities": [
                     {
-                        "name": "Primaris Ancient"
+                        "name": "Primaris Ancient",
+                        "tags": [ "HQ", "Ancient" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Primaris Lieutenant"
+                        "name": "Primaris Lieutenant",
+                        "tags": [ "HQ", "Lietenant" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Primaris Lieutenant"
+                        "name": "Primaris Lieutenant",
+                        "tags": [ "HQ", "Lietenant" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Intercessor Sergeant"
+                        "name": "Intercessor Sergeant",
+                        "tags": [ "Intercessor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Intercessor"
+                        "name": "Intercessor",
+                        "tags": [ "Intercessor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Intercessor"
+                        "name": "Intercessor",
+                        "tags": [ "Intercessor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Intercessor"
+                        "name": "Intercessor",
+                        "tags": [ "Intercessor" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Intercessor"
+                        "name": "Intercessor",
+                        "tags": [ "Intercessor" ]
                     }
                 ]
             }
@@ -1164,67 +1266,77 @@
     },
     {
         "name": "Space Marines: Honoured of the Chapter",
+        "tags": [ "Games Workshop", "Imperium", "Space Marines", "Adeptus Astartes", "Infantry", "Primaris" ],
         "models": [
             {
                 "possibilities": [
                     {
-                        "name": "Bladeguard Ancient"
+                        "name": "Bladeguard Ancient",
+                        "tags": [ "HQ", "Ancient", "Tacticus" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Primaris Chaplain"
+                        "name": "Primaris Chaplain",
+                        "tags": [ "HQ", "Chaplain", "Tacticus" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Judiciar"
+                        "name": "Judiciar",
+                        "tags": [ "Judicar", "Tacticus" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Bladeguard Veteran Sergeant"
+                        "name": "Bladeguard Veteran Sergeant",
+                        "tags": [ "Bladeguard", "Veteran", "Tacticus" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Bladeguard Veteran"
+                        "name": "Bladeguard Veteran",
+                        "tags": [ "Bladeguard", "Veteran", "Tacticus" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Bladeguard Veteran"
+                        "name": "Bladeguard Veteran",
+                        "tags": [ "Bladeguard", "Veteran", "Tacticus" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Eradicator Sergeant"
+                        "name": "Eradicator Sergeant",
+                        "tags": [ "Eradicator", "Gravis" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Eradicator"
+                        "name": "Eradicator",
+                        "tags": [ "Eradicator", "Gravis" ]
                     }
                 ]
             },
             {
                 "possibilities": [
                     {
-                        "name": "Eradicator"
+                        "name": "Eradicator",
+                        "tags": [ "Eradicator", "Gravis" ]
                     }
                 ]
             }
