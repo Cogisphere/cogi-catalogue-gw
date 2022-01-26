@@ -19,6 +19,7 @@
   "datafiles": [
     "black-templars-boxes.json",
     "space-marines-boxes.json",
-    "ultramarines-boxes.json"
+    "ultramarines-boxes.json",
+    "necron-boxes.json"
   ]
 }
